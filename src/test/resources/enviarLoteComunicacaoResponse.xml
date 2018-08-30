@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<RESPOSTA>
+    <STATUS>2</STATUS>
+    <MENSAGENS>
+        <MENSAGEM>
+            <COMUNICACAOORIGEM>0</COMUNICACAOORIGEM>
+            <ERRO>41</ERRO>
+            <DESCRICAO>CNPJ Comunicante inválido</DESCRICAO>
+        </MENSAGEM>
+    </MENSAGENS>
+</RESPOSTA>

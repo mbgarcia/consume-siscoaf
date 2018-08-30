@@ -1,0 +1,51 @@
+
+<LOTE>
+	<OCORRENCIAS ID="SISCOAF19082009">
+		<OCORRENCIA>
+			<NumOcorrencia>50</NumOcorrencia>
+			<CPFCNPJCom>04913711000108</CPFCNPJCom>
+			<DtInicio>19/08/2009</DtInicio>
+			<DtFim>20/08/2009</DtFim>
+			<AgNum>22</AgNum>
+			<AgNome>BARCARENA</AgNome>
+			<AgMun>BARCARENA</AgMun>
+			<AgUF>PA</AgUF>
+			<Det>Uma nova ocorrencia.</Det>
+			<VlCred></VlCred>
+			<VlDeb></VlDeb>
+			<VlProv>150000</VlProv>
+			<VlProp></VlProp>
+			<ENQUADRAMENTOS>
+				<CodEnq>232</CodEnq>
+			</ENQUADRAMENTOS>
+			<ENVOLVIDOS>
+				<ENVOLVIDO>
+					<CPFCNPJEnv>05058458000115</CPFCNPJEnv>
+					<NmEnv>Prefeitura Municipal de Barcarena</NmEnv>
+					<TpEnv>1</TpEnv>
+					<AgNumEnv>22</AgNumEnv>
+					<AgNomeEnv>BARCARENA</AgNomeEnv>
+					<NumConta>1700219</NumConta>
+					<DtAbConta>06/01/1997</DtAbConta>
+					<DtAtuaCad>20/08/2007</DtAtuaCad>
+					<PObrigada>0</PObrigada>
+					<PEP>0</PEP>
+					<ServPub>0</ServPub>
+				</ENVOLVIDO>
+				<ENVOLVIDO>
+					<CPFCNPJEnv>93556098253</CPFCNPJEnv>
+					<NmEnv>Glendon Magalhaes Leitao</NmEnv>
+					<TpEnv>2</TpEnv>
+					<AgNumEnv>11</AgNumEnv>
+					<AgNomeEnv>BELEM CENTRO</AgNomeEnv>
+					<NumConta>37320</NumConta>
+					<DtAbConta>01/06/2009</DtAbConta>
+					<DtAtuaCad>01/06/2009</DtAtuaCad>
+					<PObrigada>0</PObrigada>
+					<PEP>0</PEP>
+					<ServPub>0</ServPub>
+				</ENVOLVIDO>
+			</ENVOLVIDOS>
+		</OCORRENCIA>
+	</OCORRENCIAS>
+</LOTE>
